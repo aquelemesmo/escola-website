@@ -1,0 +1,14 @@
+.container h2 {
+  font-family: Comic Sans MS;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 70px;
+}
+
+.container p {
+  font-family: Comic Sans MS;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}

@@ -1,0 +1,9 @@
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo h1 {
+    margin-left: 0.5em;
+}
